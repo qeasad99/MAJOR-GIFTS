@@ -538,7 +538,7 @@ a {
   }
   #container #con03 .btn {
     display: flex;
-    margin-left: 40px;
+    margin-left: 35px;
     gap: 20px;
     transform: translateY(50px);
     opacity: 0;
