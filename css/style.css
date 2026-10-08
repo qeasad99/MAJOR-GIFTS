@@ -252,7 +252,7 @@ a {
     transition-delay: 0.4s;
   }
   #container .con01_txt {
-    margin-left: 50px;
+    margin-left: 30px;
   }
   #container .con01_txt h2 {
     font-size: 1.2rem;
@@ -404,7 +404,7 @@ a {
   }
   /*#container #con03*/
   #container .con03_txt {
-    margin-left: 50px;
+    margin-left: 30px;
   }
   #container .con03_txt h2 {
     font-size: 1.2rem;
@@ -536,7 +536,7 @@ a {
   }
   #container #con03 .btn {
     display: flex;
-    margin-left: 40px;
+    margin-left: 60px;
     gap: 20px;
     transform: translateY(50px);
     opacity: 0;
@@ -548,7 +548,7 @@ a {
     opacity: 1;
   }
   #container #con03 .btn p {
-    width: 200px;
+    width: 160px;
     height: 50px;
     line-height: 50px;
     border: 1px solid grey;
