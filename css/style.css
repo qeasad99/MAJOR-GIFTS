@@ -884,17 +884,22 @@ a {
   header .pcmenu_b ul {
     background-color: rgba(255, 255, 255, 0.5);
     width: 100%;
+    height: 30vh;
     display: flex;
     margin: 0px auto;
     justify-content: center;
+    padding-left: 12%;
   }
   header .pcmenu_b li {
-    width: 15%;
+    width: 13%;
     font-weight: bold;
+    margin-top: 30px;
   }
   header .pcmenu_b li p {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    font-size: 13px;
   }
+
   header .momenu_f {
     display: none;
   }
@@ -1566,6 +1571,7 @@ a {
   header .pcmenu_b ul {
     background-color: rgba(255, 255, 255, 0.5);
     width: 100%;
+    height: 30vh;
     display: flex;
     margin: 0px auto;
     justify-content: center;
@@ -1573,9 +1579,10 @@ a {
   header .pcmenu_b li {
     width: 10%;
     font-weight: bold;
+    margin-top: 30px;
   }
   header .pcmenu_b li p {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   header .momenu_f {
     display: none;
